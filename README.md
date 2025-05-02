@@ -1,2 +1,2 @@
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=gSnnpoR4kH)
+![LeetCode Stats](https://leetcard.jacoblin.cool/gSnnpoR4kH?theme=catppuccinMocha&font=Montserrat&ext=heatmap)
 
