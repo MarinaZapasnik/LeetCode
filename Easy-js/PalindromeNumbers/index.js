@@ -38,5 +38,5 @@ const isPalindrome = (x) => {
         arrX.push(i % 10);
     }
     
-    return x === Number(arrX.join("")) && x>0;
+    return x === Number(arrX.join("")) && x>=0;
 };
